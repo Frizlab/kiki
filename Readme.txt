@@ -1,3 +1,20 @@
+CLONE README
+============
+
+This project has been migrated from a CVS repository.
+Original CVS URL: :pserver:anonymous@kiki.cvs.sourceforge.net:/cvsroot/kiki
+
+The following line has been used to convert the project to git:
+git cvsimport -v -a -i -k -d :pserver:anonymous@kiki.cvs.sourceforge.net:/cvsroot/kiki -A authors_kiki -C LOCAL_DIR kiki
+
+With the following authors_kiki file:
+monsterkodi=Thorsten Kohnhorst (monsterkodi) <monsterkodi@users.sourceforge.net>
+
+
+
+ORIGINAL README BELOW
+=====================
+
 kiki the nano bot
 -----------------
 
@@ -62,7 +79,3 @@ have fun
 I hope you enjoy playing this little game,
 
 yours kodi
-
-
-
-
